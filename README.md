@@ -1,4 +1,4 @@
-# Bachelor thesis: Depth-Optimal Synthesis of Graph State Preparation Circuits
+# Bachelor thesis project: Depth-Optimal Synthesis of Graph State Preparation Circuits
 
 
 This repository contains the code developed as part of my research during my Bachelor thesis, 
